@@ -1,6 +1,6 @@
 # horizons
-A modern game engine and platform with easy node-based scripting for building and sharing interactive experiences.
+Horizons is a 3D multiplayer game platform and creation studio with easy node-based scripting, designed for building, playing, and sharing interactive experiences.
 
 
 ## WIKI:
-https://github.com/HORIZONS-web/horizons.wiki.git
+https://github.com/HORIZONS-web/horizons.wiki
