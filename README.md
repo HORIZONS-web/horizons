@@ -3,4 +3,4 @@ Horizons is a 3D multiplayer game platform and creation studio with easy node-ba
 **if you're reading this the installer isnt ready yet**
 
 ## WIKI:
-https://github.com/HORIZONS-web/horizons.wiki
+[HORIZONS Wiki](https://github.com/HORIZONS-web/horizons/wiki)
